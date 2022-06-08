@@ -225,7 +225,7 @@
 }
 #u7_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
@@ -272,7 +272,7 @@
 }
 #u8_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u9_input {
@@ -421,7 +421,7 @@
 }
 #u10_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u11_div {
@@ -467,7 +467,7 @@
 }
 #u11_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u12_div {
@@ -515,7 +515,7 @@
 }
 #u12_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u13_div {
@@ -563,7 +563,7 @@
 }
 #u13_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u14_img {
@@ -739,7 +739,7 @@
 }
 #u17_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u18_div {
@@ -787,7 +787,7 @@
 }
 #u18_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u19_img {
@@ -849,7 +849,7 @@
 }
 #u20_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
@@ -896,7 +896,7 @@
 }
 #u21_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u22_input {
@@ -1045,7 +1045,7 @@
 }
 #u23_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u24_div {
@@ -1091,7 +1091,7 @@
 }
 #u24_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u25 {
@@ -2063,7 +2063,7 @@
 }
 #u50_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u51_div {
@@ -2407,7 +2407,7 @@
 }
 #u58_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u59_div {
@@ -2656,7 +2656,7 @@
 }
 #u64_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u65_div {
@@ -5445,7 +5445,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   background-image:none;
   position:relative;
   left:0px;
-  width:1024px;
+  width:412px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -9086,7 +9086,7 @@ body.b {  background-color:rgba(242, 242, 242, 0);
   background-image:none;
   position:relative;
   left:0px;
-  width:768px;
+  width:1024px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -12725,11 +12725,11 @@ body.b {  background-color:rgba(242, 242, 242, 0);
 }
 body.c {  background-color:rgba(242, 242, 242, 0);
   background-image:none;
-  position:static;
-  left:auto;
-  width:412px;
-  margin-left:0;
-  margin-right:0;
+  position:relative;
+  left:0px;
+  width:768px;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 #u0.c {
