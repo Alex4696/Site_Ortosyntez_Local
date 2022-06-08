@@ -1,0 +1,228 @@
+﻿.ax_default {
+  font-family:'';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
+.shape {
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.heading_1 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Merriweather', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  color:#435966;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.droplist {
+  font-size:16px;
+  color:#EE7D00;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.connector {
+}
+.flow_shape {
+}
+.menu_item {
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.box_3 {
+}
+.shape1 {
+}
+.icon {
+}
+.image1 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape1 {
+}
+.checkbox {
+  text-align:left;
+}
+.shape2 {
+  font-size:11px;
+}
+.image2 {
+  font-size:11px;
+  color:#000000;
+}
+.html_button {
+  font-size:11px;
+  color:#000000;
+}
+.line1 {
+}
+.table_cell1 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:11px;
+  color:#2977A8;
+}
+.table {
+}
+.paragraph1 {
+  text-align:left;
+}
+.image3 {
+  color:#000000;
+}
+.horizontal_line {
+}
+._contained_button {
+  color:#FFFFFF;
+}
+._label {
+}
+.elilipse_style {
+}
+.new_style {
+  font-size:16px;
+  color:#66767F;
+  text-align:left;
+}
+.new_style1 {
+}
+.tablehead {
+  font-family:'Merriweather', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:rgba(255, 255, 255, 0.996078431372549);
+}
+.ax-slot-no-encrypt {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:1px;
+  color:#F700CB;
+}
+.ax-slot-icon {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:1px;
+  color:#1B90FF;
+}
+.ax-slot-notify {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:1px;
+}
+.ax-slot-auto-load {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:1px;
+  color:#187BD5;
+}
+.ax-slot-encrypt-key {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:1px;
+  color:#FFA100;
+}
+.ax-slot-bid {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:1px;
+}
+.ax-slot-icon-static {
+  font-size:14px;
+}
+.ax-slot-icon-blink {
+}
+.pictures_plate {
+}
+textarea, select, input, button { outline: none; }
