@@ -7913,14 +7913,18 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   padding:2px 2px 2px 2px;
 }
 #u82.a {
+  left:161px;
+  top:209px;
+  width:429px;
+  height:583px;
 }
 #u82_div.a {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
-  height:508px;
+  width:429px;
+  height:583px;
   background:inherit;
   background-color:rgba(215, 215, 215, 1);
   border:none;
@@ -7930,6 +7934,10 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   box-shadow:none;
 }
 #u82.a {
+  left:161px;
+  top:209px;
+  width:429px;
+  height:583px;
 }
 #u82_text.a {
 }
