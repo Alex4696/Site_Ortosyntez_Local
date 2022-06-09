@@ -3607,7 +3607,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:120px;
+  width:207px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3621,13 +3621,14 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u215 {
   border-width:0px;
   position:absolute;
-  left:895px;
+  left:844px;
   top:187px;
-  width:120px;
+  width:207px;
   height:22px;
   display:flex;
   font-family:'Lato', sans-serif;
@@ -3635,6 +3636,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u215 .text {
   position:absolute;
@@ -3648,7 +3650,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:120px;
+  width:207px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3662,6 +3664,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u215.mouseOver {
 }
@@ -3670,7 +3673,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:120px;
+  width:207px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3684,6 +3687,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u215.selected {
 }
@@ -3951,7 +3955,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:98px;
+  width:204px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3965,13 +3969,14 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u223 {
   border-width:0px;
   position:absolute;
-  left:515px;
+  left:450px;
   top:187px;
-  width:98px;
+  width:204px;
   height:22px;
   display:flex;
   font-family:'Lato', sans-serif;
@@ -3979,6 +3984,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u223 .text {
   position:absolute;
@@ -3992,7 +3998,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:98px;
+  width:204px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4006,6 +4012,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u223.mouseOver {
 }
@@ -4014,7 +4021,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:98px;
+  width:204px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4028,6 +4035,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u223.selected {
 }
@@ -4200,7 +4208,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:93px;
+  width:217px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4214,13 +4222,14 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u229 {
   border-width:0px;
   position:absolute;
-  left:139px;
+  left:62px;
   top:189px;
-  width:93px;
+  width:217px;
   height:22px;
   display:flex;
   font-family:'Lato', sans-serif;
@@ -4228,6 +4237,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u229 .text {
   position:absolute;
@@ -4241,7 +4251,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:93px;
+  width:217px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4255,6 +4265,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u229.mouseOver {
 }
@@ -4263,7 +4274,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:93px;
+  width:217px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4277,6 +4288,7 @@
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u229.selected {
 }
@@ -8780,6 +8792,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u215.a {
   left:618px;
@@ -8806,6 +8819,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u215.a.mouseOver {
 }
@@ -8828,6 +8842,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u215.a.selected {
 }
@@ -9009,6 +9024,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u223.a {
   left:357px;
@@ -9035,6 +9051,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u223.a.mouseOver {
 }
@@ -9057,6 +9074,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u223.a.selected {
 }
@@ -9214,6 +9232,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u229.a {
   left:98px;
@@ -9240,6 +9259,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u229.a.mouseOver {
 }
@@ -9262,6 +9282,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   font-style:normal;
   font-size:18px;
   color:#435966;
+  text-align:center;
 }
 #u229.a.selected {
 }
