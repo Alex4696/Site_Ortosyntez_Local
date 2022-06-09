@@ -2166,7 +2166,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman cursiva', 'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:italic;
   font-size:28px;
@@ -2181,7 +2181,7 @@
   width:246px;
   height:32px;
   display:flex;
-  font-family:'Times New Roman cursiva', 'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:italic;
   font-size:28px;
@@ -2390,7 +2390,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman cursiva', 'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -2405,7 +2405,7 @@
   width:158px;
   height:21px;
   display:flex;
-  font-family:'Times New Roman cursiva', 'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -2786,7 +2786,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2800,7 +2800,7 @@
   width:95px;
   height:20px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2832,7 +2832,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2845,7 +2845,7 @@
   width:95px;
   height:4px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2871,7 +2871,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2906,7 +2906,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2920,7 +2920,7 @@
   width:100px;
   height:20px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2952,7 +2952,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2965,7 +2965,7 @@
   width:100px;
   height:4px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -2991,7 +2991,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3026,7 +3026,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3040,7 +3040,7 @@
   width:95px;
   height:20px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3072,7 +3072,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3085,7 +3085,7 @@
   width:95px;
   height:4px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3111,7 +3111,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -4518,7 +4518,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -4530,7 +4530,7 @@
   width:227px;
   height:37px;
   display:flex;
-  font-family:'';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -4974,7 +4974,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:28px;
@@ -4990,7 +4990,7 @@
   width:334px;
   height:82px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:28px;
@@ -6079,7 +6079,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -6091,7 +6091,7 @@
   width:130px;
   height:37px;
   display:flex;
-  font-family:'';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -6122,7 +6122,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
 }
@@ -6134,7 +6134,7 @@
   width:82px;
   height:21px;
   display:flex;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
 }
@@ -6159,7 +6159,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
 }
@@ -7737,16 +7737,16 @@ body.a {  background-color:rgba(242, 242, 242, 0);
 #u178.a {
   left:105px;
   top:25px;
-  width:240px;
-  height:18px;
+  width:226px;
+  height:21px;
 }
 #u178_div.a {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:240px;
-  height:18px;
+  width:226px;
+  height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -7754,7 +7754,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman cursiva', 'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:italic;
   font-size:28px;
@@ -7764,8 +7764,8 @@ body.a {  background-color:rgba(242, 242, 242, 0);
 #u178.a {
   left:105px;
   top:25px;
-  width:240px;
-  height:18px;
+  width:226px;
+  height:21px;
 }
 #u178_text.a {
 }
@@ -7916,7 +7916,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman cursiva', 'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:italic;
   font-size:18px;
@@ -8231,7 +8231,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8268,7 +8268,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8293,7 +8293,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8325,7 +8325,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8362,7 +8362,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8387,7 +8387,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8419,7 +8419,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8456,7 +8456,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -8481,7 +8481,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -9436,7 +9436,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -9799,7 +9799,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
   font-size:28px;
@@ -10612,7 +10612,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -10648,7 +10648,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
 }
@@ -10672,7 +10672,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Times New Roman Normal', 'Times New Roman', sans-serif;
+  font-family:'';
   font-weight:400;
   font-style:normal;
 }

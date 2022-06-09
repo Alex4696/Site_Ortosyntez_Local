@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'';
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -31,14 +31,14 @@
   color:#169BD5;
 }
 .heading_1 {
-  font-family:'';
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'';
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
@@ -53,20 +53,20 @@
   text-align:left;
 }
 .heading_4 {
-  font-family:'';
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 .heading_5 {
-  font-family:'';
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 .heading_6 {
-  font-family:'';
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -142,7 +142,7 @@
 .line1 {
 }
 .table_cell1 {
-  font-family:'';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:11px;
