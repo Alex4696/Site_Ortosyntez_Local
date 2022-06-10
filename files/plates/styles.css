@@ -2274,7 +2274,7 @@
   left:0px;
   top:0px;
   width:1200px;
-  height:123px;
+  height:104px;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -2297,9 +2297,9 @@
   left:0px;
   top:0px;
   width:1200px;
-  height:123px;
+  height:104px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(255, 255, 255, 0.996078431372549);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -2312,7 +2312,7 @@
   left:0px;
   top:0px;
   width:1200px;
-  height:123px;
+  height:104px;
   display:flex;
 }
 #u182 .text {
@@ -7425,10 +7425,9 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   left:0px;
   top:0px;
   width:768px;
-  height:183px;
+  height:122px;
 }
 #u168.a {
-  top:142px;
   width:768px;
 }
 #u168_div.a {
@@ -7447,7 +7446,6 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   box-shadow:none;
 }
 #u168.a {
-  top:142px;
   width:768px;
 }
 #u168_text.a {
@@ -7458,7 +7456,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
 }
 #u169.a {
   position:fixed;
-  left:0px;
+  left:-2px;
   bottom:0px;
   width:768px;
   height:3px;
@@ -7865,7 +7863,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
 }
 #u182.a {
   width:768px;
-  height:80px;
+  height:70px;
 }
 #u182_div.a {
   border-width:0px;
@@ -7873,9 +7871,9 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   left:0px;
   top:0px;
   width:768px;
-  height:80px;
+  height:70px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(255, 255, 255, 0.996078431372549);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -7884,7 +7882,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
 }
 #u182.a {
   width:768px;
-  height:80px;
+  height:70px;
 }
 #u182_text.a {
 }
@@ -8251,7 +8249,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   top:0px;
   width:768px;
   height:106px;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(255, 255, 255, 0.996078431372549);
   background-image:none;
   border:none;
   border-radius:0px;
@@ -8264,7 +8262,7 @@ body.a {  background-color:rgba(242, 242, 242, 0);
   left:0px;
   top:0px;
   width:768px;
-  height:80px;
+  height:70px;
   background-color:rgba(255, 255, 255, 0);
   background-image:none;
   border:none;
